@@ -53,3 +53,7 @@ If you would like to become a volunteer, please create a ticket. Please note tha
 > 
 > **Q: Can I collaborate or become a partner?**
 > A: Yes you can. If you are interested, contact one of the admins or make a ticket in <#1457685596465266834>
+
+## <:Arrow:1525846058049994894> Website
+This is the official server of the HulpdienstvoertuigenBeNeLux website. Please only use the official link down below, any link that does not use the same domain base, is not ours. If you have any doubts, please contact us.
+https://hulpdienstvoertuigenbenelux.nl
