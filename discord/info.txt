@@ -20,7 +20,7 @@ Before you continue to the rest of the server, make sure to read the <#150916370
 > <:Community_Manager:1525846476993986680> <@&1525818211080339466> 
 > Keeping the server active by hosting events and competitions
 > <:ICT:1525847195381661806> <@&1459489735251591180> 
-> Keeping the server active by hosting events and competitions
+> Developing the website and server apps
 
 ## <:Arrow:1525846058049994894> Tickets
 To create a ticket, head to <#1457685596465266834> and click on the language you want the ticket to be in. Once created, please immediately send the reason for the ticket. If this is not immediately done, the ticket could be closed
@@ -53,3 +53,7 @@ If you would like to become a volunteer, please create a ticket. Please note tha
 > 
 > **Q: Can I collaborate or become a partner?**
 > A: Yes you can. If you are interested, contact one of the admins or make a ticket in <#1457685596465266834>
+
+## <:Arrow:1525846058049994894> Website
+This is the official server of the HulpdienstvoertuigenBeNeLux website. Please only use the official link down below, any link that does not use the same domain base, is not ours. If you have any doubts, please contact us.
+https://hulpdienstvoertuigenbenelux.nl
