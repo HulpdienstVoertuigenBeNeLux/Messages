@@ -1,0 +1,29 @@
+# <:Roles:1525846693042589937>Roles
+Roles are an important part of this server, we wish to give supporters of our site roles based on how they contributed. Below is a list of some of the roles and their requirements
+
+## <:Donator:1525846630647992411>Donators
+> <@&1525565520664072244> 
+> For donating any amount
+
+## <:Booster:1525846658066284545>Server Booster
+> <@&1510547722497818624> 
+> For boosting the server
+
+## <:Photographer:1525846601078411274> Photographers
+> <@&1525821139903844503> 
+> For having 1 photo on the website
+> <@&1525821197613531196> 
+> For having 25+ photos on the website
+> <@&1525821280710955078> 
+> For having 50+ photos on the website
+
+## <:Level:1525846726965989446>Levels
+> <@&1525821872900538388> 
+> <@&1525821822694588446> 
+> <@&1525821743963570306> 
+> <@&1525821683506876597> 
+> <@&1525821620172755025> 
+> <@&1525858855509033100> 
+> <@&1525821574584864838> 
+> <@&1525821501201453056> 
+> <@&1525821435136966827>
