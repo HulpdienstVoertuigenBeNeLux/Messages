@@ -33,14 +33,14 @@ If you would like to become a volunteer, please create a ticket. Please note tha
 > **Q: Which countries are included on the site?**
 > A: The Netherlands, Belgium and Luxembourg. On the website you can find more information about each.
 > 
-> **Q: Can I use photo's from the website?**
-> A: That depends on the liscensing and permission of the photographer. Always contact the photographer first. 
+> **Q: Can I use photos from the website?**
+> A: That depends on the licensing and permission of the photographer. Always contact the photographer first. 
 > 
 > **Q: Can I submit my own photos?**
-> A: Yes, visitors can also submit photos, make sure your photo's do not have any privacy sensitive information. You can submit photos [here](https://hulpdienstvoertuigenbenelux.nl/upload)
+> A: Yes, visitors can also submit photos, make sure your photos do not have any privacy sensitive information. You can submit photos [here](https://hulpdienstvoertuigenbenelux.nl/upload)
 > 
-> **Q: Are submitted photo's always posted?**
-> A: No, not always. The photo's will be reviewed based on quality, relevancy and safety.
+> **Q: Are submitted photos always posted?**
+> A: No, not always. The photos will be reviewed based on quality, relevancy and safety.
 > 
 > **Q: How is the information about the vehicles being collected?**
 > A: Through open sources, spotters, official press releases and the emergency services themselves. Along with contributions from visitors
@@ -49,7 +49,7 @@ If you would like to become a volunteer, please create a ticket. Please note tha
 > A: Yes you can, send a form [here](https://hulpdienstvoertuigenbenelux.nl/contact) or make a ticket in <#1457685596465266834> 
 > 
 > **Q: Can I reach out?**
-> A: You can reach out to use [here](https://hulpdienstvoertuigenbenelux.nl/contact) or make a ticket in <#1457685596465266834> 
+> A: You can reach out to us [here](https://hulpdienstvoertuigenbenelux.nl/contact) or make a ticket in <#1457685596465266834> 
 > 
 > **Q: Can I collaborate or become a partner?**
 > A: Yes you can. If you are interested, contact one of the admins or make a ticket in <#1457685596465266834>
