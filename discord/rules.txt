@@ -2,11 +2,11 @@
 Please make sure to read these rules before continuing to the server. Failure to comply with these rules will result in action being taken. If a rule is not in the list, it does not mean the rule doesn't apply. The moderators will be the final judge on the action, if you believe the moderator chose wrong. Notify a higher-up
 
 ## <:Arrow:1525846058049994894>Section 1: Chatting
-- Everyone is to be resepected. We expect members to treat eachother with respect
-- Our main language is Dutch, but English is also allowed. Any other languages are prohibited
+- Everyone is to be respected. We expect members to treat eachother with respect
+- Our main language is Dutch, but English is also allowed. Any other languages are not allowed. 
 
 ### Spamming
-Spamming is strictly prohibited, any spamming or intentional disruption will not be tolerated and will immediately be moderated. Spamming includes any kind of rapid messaging, wether this is chats, images, gifs or emojis.
+Spamming is strictly prohibited, any spamming or intentional disruption will not be tolerated and will immediately be moderated. Spamming includes any kind of rapid messaging, whether this is chats, images, gifs or emojis.
 
 ### Inappropriate Content
 Conversations about inappropriate content are not allowed within this server. While chatting please use discretion and listen to the moderators if they tell you to switch topics. Inappropriate topics may include, but not exclusively:
@@ -40,7 +40,7 @@ Any kind of impersonation will not be allowed in any channel. Impersonation incl
 - Any kind of harassment is strictly prohibited. This includes negative comments or mockery
 - Do not use any kind of inappropriate voice changers or sounds. This includes so called "Ear Rape"
 
-## <:Arrow:1525846058049994894>Section 3: Miscelanious
+## <:Arrow:1525846058049994894>Section 3: Miscellanious
 ### Profile Pictures
 Although profile pictures are not directly created within the server, they must follow certain rules to keep safety among the community and respect for others. When choosing a profile picture, the following are prohibited:
 - Racism, sexism, transphobia, or homophobia
@@ -56,7 +56,7 @@ Any kind of custom names/nicknames that are deemed inappropriate, will be modera
 -  Alternate accounts are not allowed to bypass mutes/bans and will result in addition punishment for the main account
 
 ## <:Arrow:1525846058049994894>Section 4: Moderation
-Complaining about your disciplinary action in chat will lead to further punishment. Do not show screenshots of moderation actions in chat, as this disrupts the conversation of chat and is private between you and the Moderation Department. Any commenting will result in additional moderation.
+Complaining about your disciplinary action in chat will lead to further punishment. Do not show screenshots of moderation actions in chat, as this disrupts the conversation and is private between you and the Moderation Department. Any commenting will result in additional moderation.
 
 ## <:Arrow:1525846058049994894>Section 5: Appeals
-If you believe the moderators made a wrong decision based on your behaviour. Please create a ticket in <#1457685596465266834> and give your reason for creating your ticket and showing proof of the wrong moderation. This appeal will be reviewed and discussed between the staff. If the action is deemed to be wrong, we will undo it immediately
+If you believe the moderators made a wrong decision based on your behavior. Please create a ticket in <#1457685596465266834> and give your reason for creating your ticket and showing proof of the wrong moderation. This appeal will be reviewed and discussed between the staff. If the action is deemed to be wrong, we will undo it immediately
