@@ -11,11 +11,11 @@ Roles are an important part of this server, we wish to give supporters of our si
 
 ## <:Photographer:1525846601078411274> Photographers
 > <@&1525821139903844503> 
-> For having 1 photo on the website
+> For having 1-25 photos on the website
 > <@&1525821197613531196> 
-> For having 25+ photos on the website
+> For having 26-50 photos on the website
 > <@&1525821280710955078> 
-> For having 50+ photos on the website
+> For having 51+ photos on the website
 
 ## <:Level:1525846726965989446>Levels
 > <@&1525821872900538388> 
