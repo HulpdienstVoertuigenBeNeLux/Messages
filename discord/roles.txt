@@ -10,6 +10,7 @@ Roles are an important part of this server, we wish to give supporters of our si
 > For boosting the server
 
 ## <:Photographer:1525846601078411274> Photographers
+> You must be logged in via Discord to get this roles.
 > <@&1525821139903844503> 
 > For having 1-25 photos on the website
 > <@&1525821197613531196> 
